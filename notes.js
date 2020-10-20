@@ -1,6 +1,8 @@
 /NOTES/
-參考:
+教學:
 https://gitbook.tw/chapters/github/push-to-github.html
+指令:
+https://www.maxlist.xyz/2018/11/02/git_tutorial/
 
 -------- 全新開始 ------- 
 // 建一個README.md，內容寫# test
